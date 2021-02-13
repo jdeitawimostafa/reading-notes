@@ -18,4 +18,7 @@ my github account : [jdeitawimostafa](https://github.com/jdeitawimostafa)
 |growth and mindset|[github](https://mostafakjdeitawi.github.io/reading-notes/growth%20and%20mindset)|
 |read04|[github](https://mostafakjdeitawi.github.io/reading-notes/read04)|
 |read05|[github](https://mostafakjdeitawi.github.io/reading-notes/read05)|
+|read06a|[github](https://jdeitawimostafa.github.io/reading-notes1/read06a)|
+|read06b|[github](https://jdeitawimostafa.github.io/reading-notes1/read06b)|
+|ch1,17,8|[github](https://jdeitawimostafa.github.io/reading-notes1/ch1,17,8)
 
