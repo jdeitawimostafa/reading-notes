@@ -26,9 +26,12 @@ my github account : [jdeitawimostafa](https://github.com/jdeitawimostafa)
 
 ### code 201 reading-notes
 
-- table of content (code201) : 
+- table of content (code201) :
+
 |file name|link|
 |:-------:|:---|
-|class-01|[github]()
+|class-01|[github](https://jdeitawimostafa.github.io/reading-notes1/class-01)
+
+
 
 
