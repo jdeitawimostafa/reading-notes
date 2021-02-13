@@ -1,0 +1,26 @@
+# summarizing 
+
+**comparsion and logical operators** :
+- *we can evaluate a situation by comparing one value in the script to what you expect it might be . the result will a boolean : true or false* .
+
+![comparing](data:image/png;base64,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)
+
+
+- *logical operators allow you to compare the result of more than one comparsion operator* .
+
+![logical](https://programmingwithbabu.files.wordpress.com/2017/09/logical_operator_in_c.jpg?w=499)
+
+***
+
+- *loops check a condition, if it returns ture , a code block will run , then the condition will be checked again and if it still return true , the code block will run again , it repeats until the condition result false* .
+
+![loops](https://cdn.javascripttutorial.net/wp-content/uploads/2020/01/JavaScript-for-Loop.png)
+
+- types of common loops : 
+1. for loop 
+3. while loop
+5. do while 
+
+![loops](https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/08/Difference-between-for-and-while-loop.jpg)
+
+## thanks for reading .
