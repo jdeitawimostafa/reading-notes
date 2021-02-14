@@ -7,6 +7,18 @@
 
 my github account : [jdeitawimostafa](https://github.com/jdeitawimostafa)
 
+### code 201 reading-notes
+
+- table of content (code201) :
+
+|file name|link|
+|:-------:|:---|
+|class-01|[github](https://jdeitawimostafa.github.io/reading-notes1/class-01)|
+|class-02|[github](https://jdeitawimostafa.github.io/reading-notes1/class-02)|
+
+
+***
+
 
 - table of content (code 101,102) : 
 
@@ -22,16 +34,7 @@ my github account : [jdeitawimostafa](https://github.com/jdeitawimostafa)
 |read06b|[github](https://jdeitawimostafa.github.io/reading-notes1/read06b)|
 |ch1,17,8|[github](https://jdeitawimostafa.github.io/reading-notes1/ch1,17,8)|
 
-***
 
-### code 201 reading-notes
-
-- table of content (code201) :
-
-|file name|link|
-|:-------:|:---|
-|class-01|[github](https://jdeitawimostafa.github.io/reading-notes1/class-01)|
-|class-02|[github](https://jdeitawimostafa.github.io/reading-notes1/class-02)|
 
 
 
