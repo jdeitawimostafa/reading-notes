@@ -59,7 +59,7 @@ after declaration we have to do ***function call*** , so all of the statment wil
 * what is pair programming : is an agile software development technique in which two programmers work together at one workstation . 
 
 * the pair programmer involves two roles : 
-1. the drive : he Driver is the programmer who is typing and the only one whose hands are on the keyboard. 
+1. the drive : the Driver is the programmer who is typing and the only one whose hands are on the keyboard. 
 2. the navigator : The Navigator uses their words to guide the Driver . 
 
 ###### thanks for reading . 
