@@ -25,6 +25,7 @@ my github account : [jdeitawimostafa](https://github.com/jdeitawimostafa)
 |read2-10|[github](https://jdeitawimostafa.github.io/reading-notes1/read2-10)|
 |read02-11|[github](https://jdeitawimostafa.github.io/reading-notes1/read02-11)|
 |read02-12|[github](https://jdeitawimostafa.github.io/reading-notes1/read02-12)|
+|read02-13|[github](https://jdeitawimostafa.github.io/reading-notes1/read02-13)|
 
 
 
