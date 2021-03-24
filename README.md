@@ -7,9 +7,20 @@
 
 my github account : [jdeitawimostafa](https://github.com/jdeitawimostafa)
 
+
+#### code 301 reading-notes 
+
+- table of content code201(Intermediate Software Development) :
+
+|file name|link|
+|:-------:|:---|
+
+
+*** 
+
 ### code 201 reading-notes
 
-- table of content (code201) :
+- table of content :code201 (Foundations of Software Development) :
 
 |file name|link|
 |:-------:|:---|
@@ -37,7 +48,7 @@ my github account : [jdeitawimostafa](https://github.com/jdeitawimostafa)
 ***
 
 
-- table of content (code 101,102) : 
+- table of content : code 101,102 (Intro to Software Development) : 
 
 |file name|link|
 |:-------:|:---|
