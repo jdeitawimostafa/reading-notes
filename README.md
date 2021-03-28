@@ -14,7 +14,8 @@ my github account : [jdeitawimostafa](https://github.com/jdeitawimostafa)
 
 |file name|link|
 |:-------:|:---|
-| Read-01 |[SMACSS and Responsive Web Design](https://jdeitawimostafa.github.io/reading-notes/Read01-301)|
+|Read-01|[SMACSS and Responsive Web Design](https://jdeitawimostafa.github.io/reading-notes/Read01-301)|
+|Read-02|[jQuery and Events and The DOM](https://jdeitawimostafa.github.io/reading-notes/read02-301)|
 
 
 *** 
