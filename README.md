@@ -17,6 +17,7 @@ my github account : [jdeitawimostafa](https://github.com/jdeitawimostafa)
 |Read-01|[SMACSS and Responsive Web Design](https://jdeitawimostafa.github.io/reading-notes/Read01-301)|
 |Read-02|[jQuery and Events and The DOM](https://jdeitawimostafa.github.io/reading-notes/read02-301)|
 |Read03|[Flexbox and Templating](https://jdeitawimostafa.github.io/reading-notes/read03-301)|
+|Read04|[grid css property ](https://jdeitawimostafa.github.io/reading-notes/read04-301)|
 
 
 *** 
