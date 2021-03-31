@@ -18,7 +18,7 @@ my github account : [jdeitawimostafa](https://github.com/jdeitawimostafa)
 |Read-02|[jQuery and Events and The DOM](https://jdeitawimostafa.github.io/reading-notes/read02-301)|
 |Read03|[Flexbox and Templating](https://jdeitawimostafa.github.io/reading-notes/read03-301)|
 |Read04|[grid css property ](https://jdeitawimostafa.github.io/reading-notes/read04-301)|
-|Read05|[Heroku Deployment]()
+|Read05|[Heroku Deployment](https://jdeitawimostafa.github.io/reading-notes/heroku)
 
 
 *** 
