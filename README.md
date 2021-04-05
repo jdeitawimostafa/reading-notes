@@ -21,7 +21,9 @@ my github account : [jdeitawimostafa](https://github.com/jdeitawimostafa)
 |Read05|[Heroku Deployment](https://jdeitawimostafa.github.io/reading-notes/heroku)
 |Read06|[Node.js](https://jdeitawimostafa.github.io/reading-notes/read06-301)|
 |Read07|[pair programming](https://jdeitawimostafa.github.io/reading-notes/read07-301)|
+|Read08|[SQL](https://jdeitawimostafa.github.io/reading-notes/read08-301)|
 |Read09|[functional programming and refactoring js](https://jdeitawimostafa.github.io/reading-notes/read09-301)|
+
 
 
 *** 
