@@ -26,7 +26,8 @@ my github account : [jdeitawimostafa](https://github.com/jdeitawimostafa)
 |Read10|[callback functions](https://jdeitawimostafa.github.io/reading-notes/read10-301)|
 |Read11|[EJS](https://jdeitawimostafa.github.io/reading-notes/read11-301)|
 |Read13|[update and delete](https://jdeitawimostafa.github.io/reading-notes/read13-301)|
-|Read401|[database normalization](https://jdeitawimostafa.github.io/reading-notes/read14-301)|
+|Read14|[database normalization](https://jdeitawimostafa.github.io/reading-notes/read14-301)|
+|Read15|[diversity and inclusion](https://jdeitawimostafa.github.io/reading-notes/read15-301)|
 
 
 
