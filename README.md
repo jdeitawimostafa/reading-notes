@@ -13,7 +13,7 @@ my github account : [jdeitawimostafa](https://github.com/jdeitawimostafa)
 
 |file name|link|
 |:-------:|:---|
-|Pre-Articles|[github]()|
+|Pre-Articles|[github](https://jdeitawimostafa.github.io/reading-notes/pre-401)|
 
 
 ***
