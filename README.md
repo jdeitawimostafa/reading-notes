@@ -2,8 +2,8 @@
 
 ***
 
-## about me 
-***i am mustafa jdeitawi ,i am 23 years old , i studied a civil engineering in albalqaa applied university , i decided to begin a software journey to become a good software developer*** . 
+## about me :
+***i am mustafa jdeitawi ,i am 23 years old , i studied a civil engineering in albalqaa applied university , i decided to begin a software journey to become a good software developer*** .
 
 my github account : [jdeitawimostafa](https://github.com/jdeitawimostafa)
 
@@ -13,12 +13,13 @@ my github account : [jdeitawimostafa](https://github.com/jdeitawimostafa)
 
 |file name|link|
 |:-------:|:---|
+|Pre-Articles|[github]()|
 
 
 ***
 
 
-#### code 301 reading-notes 
+#### code 301 reading-notes :
 
 - table of content code301(Intermediate Software Development) :
 
@@ -43,7 +44,7 @@ my github account : [jdeitawimostafa](https://github.com/jdeitawimostafa)
 
 *** 
 
-### code 201 reading-notes
+### code 201 reading-notes :
 
 - table of content :code201 (Foundations of Software Development) :
 
@@ -66,9 +67,6 @@ my github account : [jdeitawimostafa](https://github.com/jdeitawimostafa)
 |read02-14b|[github](https://jdeitawimostafa.github.io/reading-notes1/read02-14b)
 
 
-
-
-
 ***
 
 
@@ -85,10 +83,3 @@ my github account : [jdeitawimostafa](https://github.com/jdeitawimostafa)
 |read06a|[github](https://jdeitawimostafa.github.io/reading-notes1/read06a)|
 |read06b|[github](https://jdeitawimostafa.github.io/reading-notes1/read06b)|
 |ch1,17,8|[github](https://jdeitawimostafa.github.io/reading-notes1/ch1,17,8)|
-
-
-
-
-
-
-
