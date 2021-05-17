@@ -14,7 +14,8 @@ my github account : [jdeitawimostafa](https://github.com/jdeitawimostafa)
 |file name|link|
 |:-------:|:---|
 |Pre-Articles|[github](https://jdeitawimostafa.github.io/reading-notes/pre-401)|
-|class01|[github](https://jdeitawimostafa.github.io/reading-notes/class01)|
+|class02|[github](https://jdeitawimostafa.github.io/reading-notes/class01)|
+|class03|[github]()|
 
 
 ***
