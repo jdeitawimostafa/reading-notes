@@ -18,6 +18,7 @@ my github account : [jdeitawimostafa](https://github.com/jdeitawimostafa)
 |class03|[github](https://jdeitawimostafa.github.io/reading-notes/class03-401)|
 |class04|[github](https://jdeitawimostafa.github.io/reading-notes/class04-401)|
 |class06|[github](https://jdeitawimostafa.github.io/reading-notes/read06-401)|
+|class07|[github](https://jdeitawimostafa.github.io/reading-notes/read07-401)|
 
 ***
 
