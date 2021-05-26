@@ -21,6 +21,7 @@ my github account : [jdeitawimostafa](https://github.com/jdeitawimostafa)
 |class07|[github](https://jdeitawimostafa.github.io/reading-notes/read07-401)|
 |class08|[github](https://jdeitawimostafa.github.io/reading-notes/read08-401)|
 |stack&queue|[github](https://jdeitawimostafa.github.io/reading-notes/read-stack&queue-401)|
+|read09|[github](https://jdeitawimostafa.github.io/reading-notes/read09-401)|
 
 ***
 
@@ -45,6 +46,7 @@ my github account : [jdeitawimostafa](https://github.com/jdeitawimostafa)
 |Read13|[update and delete](https://jdeitawimostafa.github.io/reading-notes/read13-301)|
 |Read14|[database normalization](https://jdeitawimostafa.github.io/reading-notes/read14-301)|
 |Read15|[diversity and inclusion](https://jdeitawimostafa.github.io/reading-notes/read15-301)|
+
 
 
 
