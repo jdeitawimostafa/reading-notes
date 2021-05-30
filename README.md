@@ -23,6 +23,7 @@ my github account : [jdeitawimostafa](https://github.com/jdeitawimostafa)
 |stack&queue|[github](https://jdeitawimostafa.github.io/reading-notes/read-stack&queue-401)|
 |read09|[github](https://jdeitawimostafa.github.io/reading-notes/read09-401)|
 |read11|[github](https://jdeitawimostafa.github.io/reading-notes/read11-401)|
+|read12|[github](https://jdeitawimostafa.github.io/reading-notes/read12-401)|
 
 ***
 
