@@ -28,6 +28,7 @@ my github account : [jdeitawimostafa](https://github.com/jdeitawimostafa)
 |read14|[github](https://jdeitawimostafa.github.io/reading-notes/read14-401)|
 |read16|[github](https://jdeitawimostafa.github.io/reading-notes/read16-401)|
 |read17|[github](https://jdeitawimostafa.github.io/reading-notes/read17-401)|
+|read18|[github](https://jdeitawimostafa.github.io/reading-notes/read18-401)|
 
 ***
 
