@@ -32,7 +32,6 @@ my github account : [jdeitawimostafa](https://github.com/jdeitawimostafa)
 
 ***
 
-
 #### code 301 reading-notes :
 
 - table of content code301(Intermediate Software Development) :
