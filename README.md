@@ -30,6 +30,7 @@ my github account : [jdeitawimostafa](https://github.com/jdeitawimostafa)
 |read17|[github](https://jdeitawimostafa.github.io/reading-notes/read17-401)|
 |read18|[github](https://jdeitawimostafa.github.io/reading-notes/read18-401)|
 |read19|[github](https://jdeitawimostafa.github.io/reading-notes/read19-401)|
+|read26|[github](https://jdeitawimostafa.github.io/reading-notes/read26-401)|
 
 ***
 
