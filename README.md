@@ -43,6 +43,7 @@ my github account : [jdeitawimostafa](https://github.com/jdeitawimostafa)
 |read38|[github](https://jdeitawimostafa.github.io/reading-notes/read38-401)|
 |read39|[github](https://jdeitawimostafa.github.io/reading-notes/read39-401)|
 |read41|[github](https://jdeitawimostafa.github.io/reading-notes/read41-401)|
+|read42|[github](https://jdeitawimostafa.github.io/reading-notes/read42-401)|
 
 ***
 
